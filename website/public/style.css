@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    font-family: sans-serif;
+    color: azure;
+    background-color: rgb(30, 30, 30);
+}
+
+h1{
+    font-size: 26px;
+}
+
+#quiz{
+    margin-left: 15%;
+    margin-right: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#enem-img{
+    display: block;
+    margin-left: 10%;
+    margin-right: -10%;
+    width: 80%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.quest{
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.answer{
+    display: line;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.result{
+    font-family: sans-serif;
+    font-size: 32;
+}
+
+.null{
+    display: none;
+}
