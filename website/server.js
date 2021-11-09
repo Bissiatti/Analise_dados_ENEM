@@ -23,10 +23,6 @@ app.get('/:data',function(req,res){
   python.stdout.on('data',(data)=>{
     res.send(data);
   })
-  
-  python.on('close',(code)=>{
-    console.log("exit: " + code)
-  })
 
   python.stderr.on("data",(error)=>{
     console.error("stderr: " + error)

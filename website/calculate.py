@@ -15,12 +15,11 @@ while i < len(x):
     x[i] = float(x[i])
     i += 1
 
-
 #x = [21, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0.2, 0, 0, 0, 0, 0, 0, 0.2, 0, 0, 0, 0, 0, 0, 0, 0] #exemplo do vetor x de entrada.
 
-y1 = model1.predict([x])
+notaMedia = model1.predict([x])
 
-y2 = model2.predict([x])
+notaRedacao = model2.predict([x])
 
-y= [y1[0],y2[0]]
+y= [notaMedia[0],notaRedacao[0]]
 print(y)
