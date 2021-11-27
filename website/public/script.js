@@ -1,6 +1,22 @@
-const quiz = document.querySelector("#quest");
+const quiz = document.querySelector("#ENEMquests");
 
-var data = []
+const fgv = document.querySelector("#fgv")
+
+const data = []
+
+const init = document.querySelector("#init")
+
+init.addEventListener("click",(e)=>{
+  e.path[1].classList.add("null")
+  e.path[2].children[1].classList.remove("null")
+})
+
+
+fgv.addEventListener("click",()=>{
+  console.log("kkkkkkkkkkkkk")
+  window.location.href = "https://emap.fgv.br/"
+})
+
 
 var calculateModel = function () {
   fetch('/'+ data)
@@ -10,12 +26,25 @@ var calculateModel = function () {
   .then(data => {
     console.log(data[0])
     let result = document.querySelector('.result')
+
+    let sp1 = document.createElement("span")
+    sp1.classList.add("special")
+    sp1.appendChild(document.createTextNode((1000*data[0]).toFixed(2)))
+
+    let sp2 = document.createElement("span")
+    sp2.classList.add("special")
+    sp2.appendChild(document.createTextNode((1000*data[1]).toFixed(2)))
     result.innerHTML = ""
-    result.appendChild(document.createTextNode("O seu desempenho médio no ENEM nas provas objetivas será de: "+
-                                               (1000*data[0]).toFixed(2) + 
-                                               ". O seu desempenho na nota de redação será: " +
-                                               (1000*data[1]).toFixed(2)))
-  });
+
+    result.appendChild(document.createTextNode("O seu desempenho médio no ENEM nas provas objetivas será de: "))
+    result.appendChild(sp1)
+    result.appendChild(document.createTextNode( ". O seu desempenho na nota de redação será: "))
+    result.appendChild(sp2)
+    result.appendChild(document.createElement("br"))
+    result.appendChild(document.createTextNode( "Aviso: este resultado não corresponde a 100% da realidade, o modelo apenas mensura a influência das suas características socias e econômicas de acordo com a nota do ENEM."))
+    result.appendChild(document.createElement("br"))
+    result.appendChild(document.createTextNode("O modelo utilizado possuiu coeficiente de determinação de cerca de 40% para a nota média das provas objetivas e de 20% para a nota da Redação."))
+  });00
 }
 
 
@@ -31,8 +60,6 @@ var none = function(e) {
 }
 
 
-
-
 var addQuestsJson = function(json){
   let count = 1
   let t = false
@@ -41,7 +68,7 @@ var addQuestsJson = function(json){
       count++;
     } 
     else{
-      let quest = document.createElement("div")
+      var quest = document.createElement("div")
       quest.classList.add("quest")
       let p = document.createElement('p')
       p.appendChild(document.createTextNode(i))
@@ -64,8 +91,25 @@ var addQuestsJson = function(json){
         quest.appendChild(answer)
       }
       if (t){
-        quest.classList.add("null")
+        let returnButton = document.createElement('BUTTON');
+        let lbl = document.createTextNode("Retornar para a última pergunta");  
+        returnButton.classList.add("return")      
+        returnButton.appendChild(lbl);   
+        returnButton.addEventListener("click",(e)=>{
+          console.log(e.path[1])
+          let x = e.path[1]
+          x.classList.add("null")
+          x.previousElementSibling.classList.remove("null");
+          backElement = x.previousElementSibling
+          data.splice(-1,1);
+          for(let i =1; i < backElement.children.length-1;i++){
+            console.log(backElement.children)
+            backElement.children[i].firstElementChild.firstElementChild.checked = ""
+          } 
+        })
+        quest.appendChild(returnButton)
       }
+      quest.classList.add("null")
       quiz.appendChild(quest)
       t = true
       count++;
@@ -76,7 +120,7 @@ var addQuestsJson = function(json){
   result.classList.add("result")
   result.appendChild(document.createTextNode("Aguarde"))
 
-  quest.appendChild(result)
+  quiz.appendChild(result)
 }
 
 fetch("./quests.json")
@@ -84,6 +128,5 @@ fetch("./quests.json")
     return response.json();
   })
   .then(data => addQuestsJson(data));
-
 
   

@@ -13,11 +13,18 @@ header{
     align-items: center;
     font-family: sans-serif;
     color: azure;
+    justify-content: space-between;
     background-color: rgb(30, 30, 30);
 }
 
 h1{
     font-size: 26px;
+}
+
+#fgv{
+    height: 100%;
+    margin-right: 20px;
+    cursor: pointer;
 }
 
 #quiz{
@@ -70,4 +77,29 @@ h3{
 
 .null{
     display: none;
+}
+
+.return{
+    background-color:rgb(191, 68, 68);
+    color: black;
+    font-size: larger;
+    width: 60%;
+    margin-right: -20%;
+    margin-left: 20%;
+    margin-top: 20px;
+    
+}
+
+.special{
+    color: brown;
+}
+
+#init{
+    display: block;
+    background-color: rgb(0, 89, 158);
+    font-size: larger;
+    width: 30%;
+    margin-right: -30%;
+    margin-left: 30%;
+    margin-top: 20px;
 }
