@@ -6,6 +6,10 @@ const data = []
 
 const init = document.querySelector("#init")
 
+function toggleDisabled(elem){
+  elem.disabled = !elem.disabled;
+}
+
 init.addEventListener("click",(e)=>{
   e.path[1].classList.add("null")
   e.path[2].children[1].classList.remove("null")
@@ -18,6 +22,7 @@ fgv.addEventListener("click",()=>{
 
 
 var calculateModel = function () {
+  console.log(data)
   fetch('/'+ data)
   .then(response => {
     return response.json();
@@ -47,6 +52,7 @@ var calculateModel = function () {
 
 
 var none = function(e) {
+  toggleDisabled(e)
   e.path[3].classList.add("null");
   e.path[3].nextSibling.classList.remove("null");
   data.push(parseFloat(e.path[0].value)); 
@@ -77,8 +83,10 @@ var addQuestsJson = function(json){
         let input = document.createElement("input")
         input.setAttribute("type","radio")
         input.setAttribute("value",json[i][j][1])
+        input.addEventListener('mousedown', function(e){ e.preventDefault(); }, false);
 
         input.addEventListener("click",(e)=>{
+          e.disabled = true;
           setTimeout(() => {none(e)}, 300);
         })
 
@@ -93,6 +101,12 @@ var addQuestsJson = function(json){
         returnButton.classList.add("return")      
         returnButton.appendChild(lbl);   
         returnButton.addEventListener("click",(e)=>{
+          e.disabled = true;
+          
+          setTimeout(function(){
+            toggleDisabled(e)
+          },300);
+
           let x = e.path[1]
           x.classList.add("null")
           x.previousElementSibling.classList.remove("null");
