@@ -1,0 +1,1180 @@
+{
+    "Qual \u00e9 o seu estado de residencia?": [
+        [
+            "Acre",
+            "12"
+        ],
+        [
+            "Alagoas",
+            "27"
+        ],
+        [
+            "Amap\u00e1",
+            "16"
+        ],
+        [
+            "Amazonas",
+            "13"
+        ],
+        [
+            "Bahia",
+            "29"
+        ],
+        [
+            "Cear\u00e1",
+            "23"
+        ],
+        [
+            "Distrito Federal",
+            "53"
+        ],
+        [
+            "Esp\u00edrito Santo",
+            "32"
+        ],
+        [
+            "Goi\u00e1s",
+            "52"
+        ],
+        [
+            "Maranh\u00e3o",
+            "21"
+        ],
+        [
+            "Mato Grosso",
+            "51"
+        ],
+        [
+            "Mato Grosso do Sul",
+            "50"
+        ],
+        [
+            "Minas Gerais",
+            "31"
+        ],
+        [
+            "Par\u00e1",
+            "15"
+        ],
+        [
+            "Para\u00edba",
+            "25"
+        ],
+        [
+            "Paran\u00e1",
+            "41"
+        ],
+        [
+            "Pernambuco",
+            "26"
+        ],
+        [
+            "Piau\u00ed",
+            "22"
+        ],
+        [
+            "Rio Grande do Norte",
+            "24"
+        ],
+        [
+            "Rio Grande do Sul",
+            "43"
+        ],
+        [
+            "Rio de Janeiro",
+            "33"
+        ],
+        [
+            "Rond\u00f4nia",
+            "11"
+        ],
+        [
+            "Roraima",
+            "14"
+        ],
+        [
+            "Santa Catarina",
+            "42"
+        ],
+        [
+            "S\u00e3o Paulo",
+            "35"
+        ],
+        [
+            "Sergipe",
+            "28"
+        ],
+        [
+            "Tocantins",
+            "17"
+        ]
+    ],
+    "Qual \u00e9 a sua idade?": [
+        [
+            10,
+            10
+        ],
+        [
+            11,
+            11
+        ],
+        [
+            12,
+            12
+        ],
+        [
+            13,
+            13
+        ],
+        [
+            14,
+            14
+        ],
+        [
+            15,
+            15
+        ],
+        [
+            16,
+            16
+        ],
+        [
+            17,
+            17
+        ],
+        [
+            18,
+            18
+        ],
+        [
+            19,
+            19
+        ],
+        [
+            20,
+            20
+        ],
+        [
+            21,
+            21
+        ],
+        [
+            22,
+            22
+        ],
+        [
+            23,
+            23
+        ],
+        [
+            24,
+            24
+        ],
+        [
+            25,
+            25
+        ],
+        [
+            26,
+            26
+        ],
+        [
+            27,
+            27
+        ],
+        [
+            28,
+            28
+        ],
+        [
+            29,
+            29
+        ],
+        [
+            30,
+            30
+        ],
+        [
+            31,
+            31
+        ],
+        [
+            32,
+            32
+        ],
+        [
+            33,
+            33
+        ],
+        [
+            34,
+            34
+        ],
+        [
+            35,
+            35
+        ],
+        [
+            36,
+            36
+        ],
+        [
+            37,
+            37
+        ],
+        [
+            38,
+            38
+        ],
+        [
+            39,
+            39
+        ],
+        [
+            40,
+            40
+        ],
+        [
+            41,
+            41
+        ],
+        [
+            42,
+            42
+        ],
+        [
+            43,
+            43
+        ],
+        [
+            44,
+            44
+        ],
+        [
+            45,
+            45
+        ],
+        [
+            46,
+            46
+        ],
+        [
+            47,
+            47
+        ],
+        [
+            48,
+            48
+        ],
+        [
+            49,
+            49
+        ],
+        [
+            50,
+            50
+        ],
+        [
+            51,
+            51
+        ],
+        [
+            52,
+            52
+        ],
+        [
+            53,
+            53
+        ],
+        [
+            54,
+            54
+        ],
+        [
+            55,
+            55
+        ],
+        [
+            56,
+            56
+        ],
+        [
+            57,
+            57
+        ],
+        [
+            58,
+            58
+        ],
+        [
+            59,
+            59
+        ],
+        [
+            60,
+            60
+        ],
+        [
+            61,
+            61
+        ],
+        [
+            62,
+            62
+        ],
+        [
+            63,
+            63
+        ],
+        [
+            64,
+            64
+        ],
+        [
+            65,
+            65
+        ],
+        [
+            66,
+            66
+        ],
+        [
+            67,
+            67
+        ],
+        [
+            68,
+            68
+        ],
+        [
+            69,
+            69
+        ],
+        [
+            70,
+            70
+        ],
+        [
+            71,
+            71
+        ],
+        [
+            72,
+            72
+        ],
+        [
+            73,
+            73
+        ],
+        [
+            74,
+            74
+        ],
+        [
+            75,
+            75
+        ],
+        [
+            76,
+            76
+        ],
+        [
+            77,
+            77
+        ],
+        [
+            78,
+            78
+        ],
+        [
+            79,
+            79
+        ],
+        [
+            80,
+            80
+        ],
+        [
+            81,
+            81
+        ],
+        [
+            82,
+            82
+        ],
+        [
+            83,
+            83
+        ],
+        [
+            84,
+            84
+        ],
+        [
+            85,
+            85
+        ],
+        [
+            86,
+            86
+        ],
+        [
+            87,
+            87
+        ],
+        [
+            88,
+            88
+        ],
+        [
+            89,
+            89
+        ],
+        [
+            90,
+            90
+        ],
+        [
+            91,
+            91
+        ],
+        [
+            92,
+            92
+        ],
+        [
+            93,
+            93
+        ],
+        [
+            94,
+            94
+        ],
+        [
+            95,
+            95
+        ],
+        [
+            96,
+            96
+        ],
+        [
+            97,
+            97
+        ],
+        [
+            98,
+            98
+        ],
+        [
+            99,
+            99
+        ]
+    ],
+    "Ano em que voc\u00ea conclus\u00e3o o Ensino M\u00e9dio?": [
+        [
+            "N\u00e3o conclui antes do ENEM 2019",
+            0
+        ],
+        [
+            2018,
+            1
+        ],
+        [
+            2017,
+            2
+        ],
+        [
+            2018,
+            3
+        ],
+        [
+            2017,
+            4
+        ],
+        [
+            2016,
+            5
+        ],
+        [
+            2015,
+            6
+        ],
+        [
+            2014,
+            7
+        ],
+        [
+            2013,
+            8
+        ],
+        [
+            2012,
+            9
+        ],
+        [
+            2011,
+            10
+        ],
+        [
+            2010,
+            11
+        ],
+        [
+            2009,
+            12
+        ],
+        [
+            2008,
+            13
+        ],
+        [
+            2007,
+            14
+        ],
+        [
+            "Antes de 2007",
+            15
+        ]
+    ],
+    "Tipo de Sexo?": [
+        [
+            "Masculino",
+            0
+        ],
+        [
+            "Feminino",
+            1
+        ]
+    ],
+    "\u00c9 treneiro?": [
+        [
+            "Sim",
+            1
+        ],
+        [
+            "N\u00e3o",
+            0
+        ]
+    ],
+    "Lingua Estrangeira?": [
+        [
+            "Ingl\u00eas",
+            0
+        ],
+        [
+            "Espanhol",
+            1
+        ]
+    ],
+    "At\u00e9 que s\u00e9rie seu pai, ou o homem respons\u00e1vel por voc\u00ea, estudou?": [
+        [
+            "Nunca estudou.",
+            0.0
+        ],
+        [
+            "N\u00e3o completou a 4\u00aa s\u00e9rie/5\u00ba ano do Ensino Fundamental.",
+            0.14285714285714285
+        ],
+        [
+            "Completou a 4\u00aa s\u00e9rie/5\u00ba ano, mas n\u00e3o completou a 8\u00aa s\u00e9rie/9\u00ba ano do Ensino Fundamental.",
+            0.2857142857142857
+        ],
+        [
+            "Completou a 8\u00aa s\u00e9rie/9\u00ba ano do Ensino Fundamental, mas n\u00e3o completou o Ensino M\u00e9dio.",
+            0.42857142857142855
+        ],
+        [
+            "Completou o Ensino M\u00e9dio, mas n\u00e3o completou a Faculdade.",
+            0.5714285714285714
+        ],
+        [
+            "Completou a Faculdade, mas n\u00e3o completou a P\u00f3s-gradua\u00e7\u00e3o.",
+            0.7142857142857143
+        ],
+        [
+            "Completou a P\u00f3s-gradua\u00e7\u00e3o.",
+            1
+        ]
+    ],
+    "At\u00e9 que s\u00e9rie sua m\u00e3e, ou a mulher respons\u00e1vel por voc\u00ea, estudou?": [
+        [
+            "Nunca estudou.",
+            0.0
+        ],
+        [
+            "N\u00e3o completou a 4\u00aa s\u00e9rie/5\u00ba ano do Ensino Fundamental.",
+            0.14285714285714285
+        ],
+        [
+            "Completou a 4\u00aa s\u00e9rie/5\u00ba ano, mas n\u00e3o completou a 8\u00aa s\u00e9rie/9\u00ba ano do Ensino Fundamental.",
+            0.2857142857142857
+        ],
+        [
+            "Completou a 8\u00aa s\u00e9rie/9\u00ba ano do Ensino Fundamental, mas n\u00e3o completou o Ensino M\u00e9dio.",
+            0.42857142857142855
+        ],
+        [
+            "Completou o Ensino M\u00e9dio, mas n\u00e3o completou a Faculdade.",
+            0.5714285714285714
+        ],
+        [
+            "Completou a Faculdade, mas n\u00e3o completou a P\u00f3s-gradua\u00e7\u00e3o.",
+            0.7142857142857143
+        ],
+        [
+            "Completou a P\u00f3s-gradua\u00e7\u00e3o.",
+            1
+        ]
+    ],
+    "A partir da apresenta\u00e7\u00e3o de algumas ocupa\u00e7\u00f5es divididas em grupos ordenados, indique o grupo que contempla a ocupa\u00e7\u00e3o mais pr\u00f3xima da ocupa\u00e7\u00e3o do seu pai ou do homem respons\u00e1vel por voc\u00ea. (Se ele n\u00e3o estiver trabalhando, escolha uma ocupa\u00e7\u00e3o pensando no \u00faltimo trabalho dele).": [
+        [
+            "Grupo 1: Lavrador, agricultor sem empregados, b\u00f3ia fria, criador de animais (gado, porcos, galinhas, ovelhas, cavalos etc.), apicultor, pescador, lenhador, seringueiro, extrativista.",
+            0.0
+        ],
+        [
+            "Grupo 2: Diarista, empregado dom\u00e9stico, cuidador de idosos, bab\u00e1, cozinheiro (em casas particulares), motorista particular, jardineiro, faxineiro de empresas e pr\u00e9dios, vigilante, porteiro, carteiro, office-boy, vendedor, caixa, atendente de loja, auxiliar administrativo, recepcionista, servente de pedreiro, repositor de mercadoria.",
+            0.2
+        ],
+        [
+            "Grupo 3: Padeiro, cozinheiro industrial ou em restaurantes, sapateiro, costureiro, joalheiro, torneiro mec\u00e2nico, operador de m\u00e1quinas, soldador, oper\u00e1rio de f\u00e1brica, trabalhador da minera\u00e7\u00e3o, pedreiro, pintor, eletricista, encanador, motorista, caminhoneiro, taxista.",
+            0.4
+        ],
+        [
+            "Grupo 4: Professor (de ensino fundamental ou m\u00e9dio, idioma, m\u00fasica, artes etc.), t\u00e9cnico (de enfermagem, contabilidade, eletr\u00f4nica etc.), policial, militar de baixa patente (soldado, cabo, sargento), corretor de im\u00f3veis, supervisor, gerente, mestre de obras, pastor, microempres\u00e1rio (propriet\u00e1rio de empresa com menos de 10 empregados), pequeno comerciante, pequeno propriet\u00e1rio de terras, trabalhador aut\u00f4nomo ou por conta pr\u00f3pria.",
+            0.6
+        ],
+        [
+            "Grupo 5: M\u00e9dico, engenheiro, dentista, psic\u00f3logo, economista, advogado, juiz, promotor, defensor, delegado, tenente, capit\u00e3o, coronel, professor universit\u00e1rio, diretor em empresas p\u00fablicas ou privadas, pol\u00edtico, propriet\u00e1rio de empresas com mais de 10 empregados.",
+            1
+        ]
+    ],
+    "A partir da apresenta\u00e7\u00e3o de algumas ocupa\u00e7\u00f5es divididas em grupos ordenados, indique o grupo que contempla a ocupa\u00e7\u00e3o mais pr\u00f3xima da ocupa\u00e7\u00e3o da sua m\u00e3e ou da mulher respons\u00e1vel por voc\u00ea. (Se ela n\u00e3o estiver trabalhando, escolha uma ocupa\u00e7\u00e3o pensando no \u00faltimo trabalho dela).": [
+        [
+            "Grupo 1: Lavradora, agricultora sem empregados, b\u00f3ia fria, criadora de animais (gado, porcos, galinhas, ovelhas, cavalos etc.), apicultora, pescadora, lenhadora, seringueira, extrativista.",
+            0.0
+        ],
+        [
+            "Grupo 2: Diarista, empregada dom\u00e9stica, cuidadora de idosos, bab\u00e1, cozinheira (em casas particulares), motorista particular, jardineira, faxineira de empresas e pr\u00e9dios, vigilante, porteira, carteira, office-boy, vendedora, caixa, atendente de loja, auxiliar administrativa, recepcionista, servente de pedreiro, repositora de mercadoria.",
+            0.2
+        ],
+        [
+            "Grupo 3: Padeira, cozinheira industrial ou em restaurantes, sapateira, costureira, joalheira, torneira mec\u00e2nica, operadora de m\u00e1quinas, soldadora, oper\u00e1ria de f\u00e1brica, trabalhadora da minera\u00e7\u00e3o, pedreira, pintora, eletricista, encanadora, motorista, caminhoneira, taxista.",
+            0.4
+        ],
+        [
+            "Grupo 4: Professora (de ensino fundamental ou m\u00e9dio, idioma, m\u00fasica, artes etc.), t\u00e9cnica (de enfermagem, contabilidade, eletr\u00f4nica etc.), policial, militar de baixa patente (soldado, cabo, sargento), corretora de im\u00f3veis, supervisora, gerente, mestre de obras, pastora, microempres\u00e1ria (propriet\u00e1ria de empresa com menos de 10 empregados), pequena comerciante, pequena propriet\u00e1ria de terras, trabalhadora aut\u00f4noma ou por conta pr\u00f3pria.",
+            0.6
+        ],
+        [
+            "Grupo 5: M\u00e9dica, engenheira, dentista, psic\u00f3loga, economista, advogada, ju\u00edza, promotora, defensora, delegada, tenente, capit\u00e3, coronel, professora universit\u00e1ria, diretora em empresas p\u00fablicas ou privadas, pol\u00edtica, propriet\u00e1ria de empresas com mais de 10 empregados.",
+            1
+        ]
+    ],
+    "Incluindo voc\u00ea, quantas pessoas moram atualmente em sua resid\u00eancia?": [
+        [
+            "1, pois moro sozinho(a).",
+            0.0
+        ],
+        [
+            "2",
+            0.05
+        ],
+        [
+            "3",
+            0.1
+        ],
+        [
+            "4",
+            0.15
+        ],
+        [
+            "5",
+            0.2
+        ],
+        [
+            "6",
+            0.25
+        ],
+        [
+            "7",
+            0.3
+        ],
+        [
+            "8",
+            0.35
+        ],
+        [
+            "9",
+            0.4
+        ],
+        [
+            "10",
+            0.45
+        ],
+        [
+            "11",
+            0.5
+        ],
+        [
+            "12",
+            0.55
+        ],
+        [
+            "13",
+            0.6
+        ],
+        [
+            "14",
+            0.65
+        ],
+        [
+            "15",
+            0.7
+        ],
+        [
+            "16",
+            0.75
+        ],
+        [
+            "17",
+            0.8
+        ],
+        [
+            "18",
+            0.85
+        ],
+        [
+            "19",
+            0.9
+        ],
+        [
+            "20",
+            1
+        ]
+    ],
+    "Qual \u00e9 a renda mensal de sua fam\u00edlia? (Some a sua renda com a dos seus familiares.)": [
+        [
+            "Nenhuma renda.",
+            0.0
+        ],
+        [
+            "At\u00e9 R$ 998,00.",
+            0.058823529411764705
+        ],
+        [
+            "De R$ 998,01 at\u00e9 R$ 1.497,00.",
+            0.11764705882352941
+        ],
+        [
+            "De R$ 1.497,01 at\u00e9 R$ 1.996,00.",
+            0.17647058823529413
+        ],
+        [
+            "De R$ 1.996,01 at\u00e9 R$ 2.495,00.",
+            0.23529411764705882
+        ],
+        [
+            "De R$ 2.495,01 at\u00e9 R$ 2.994,00.",
+            0.29411764705882354
+        ],
+        [
+            "De R$ 2.994,01 at\u00e9 R$ 3.992,00.",
+            0.35294117647058826
+        ],
+        [
+            "De R$ 3.992,01 at\u00e9 R$ 4.990,00.",
+            0.4117647058823529
+        ],
+        [
+            "De R$ 4.990,01 at\u00e9 R$ 5.988,00.",
+            0.47058823529411764
+        ],
+        [
+            "De R$ 5.988,01 at\u00e9 R$ 6.986,00.",
+            0.5294117647058824
+        ],
+        [
+            "De R$ 6.986,01 at\u00e9 R$ 7.984,00.",
+            0.5882352941176471
+        ],
+        [
+            "De R$ 7.984,01 at\u00e9 R$ 8.982,00.",
+            0.6470588235294118
+        ],
+        [
+            "De R$ 8.982,01 at\u00e9 R$ 9.980,00.",
+            0.7058823529411765
+        ],
+        [
+            "De R$ 9.980,01 at\u00e9 R$ 11.976,00.",
+            0.7647058823529411
+        ],
+        [
+            "De R$ 11.976,01 at\u00e9 R$ 14.970,00.",
+            0.8235294117647058
+        ],
+        [
+            "De R$ 14.970,01 at\u00e9 R$ 19.960,00.",
+            0.8823529411764706
+        ],
+        [
+            "Mais de R$ 19.960,00.",
+            1
+        ]
+    ],
+    "Em sua resid\u00eancia trabalha empregado(a) dom\u00e9stico(a)?": [
+        [
+            "N\u00e3o.",
+            0.0
+        ],
+        [
+            "Sim, um ou dois dias por semana.",
+            0.25
+        ],
+        [
+            "Sim, tr\u00eas ou quatro dias por semana.",
+            0.5
+        ],
+        [
+            "Sim, pelo menos cinco dias por semana.",
+            1
+        ]
+    ],
+    "Na sua resid\u00eancia tem banheiro?": [
+        [
+            "N\u00e3o.",
+            0.0
+        ],
+        [
+            "Sim, um.",
+            0.2
+        ],
+        [
+            "Sim, dois.",
+            0.4
+        ],
+        [
+            "Sim, tr\u00eas.",
+            0.6
+        ],
+        [
+            "Sim, quatro ou mais.",
+            1
+        ]
+    ],
+    "Na sua resid\u00eancia tem quartos para dormir?": [
+        [
+            "N\u00e3o.",
+            0.0
+        ],
+        [
+            "Sim, um.",
+            0.2
+        ],
+        [
+            "Sim, dois.",
+            0.4
+        ],
+        [
+            "Sim, tr\u00eas.",
+            0.6
+        ],
+        [
+            "Sim, quatro ou mais.",
+            1
+        ]
+    ],
+    "Na sua resid\u00eancia tem carro?": [
+        [
+            "N\u00e3o.",
+            0.0
+        ],
+        [
+            "Sim, um.",
+            0.2
+        ],
+        [
+            "Sim, dois.",
+            0.4
+        ],
+        [
+            "Sim, tr\u00eas.",
+            0.6
+        ],
+        [
+            "Sim, quatro ou mais.",
+            1
+        ]
+    ],
+    "Na sua resid\u00eancia tem motocicleta?": [
+        [
+            "N\u00e3o.",
+            0.0
+        ],
+        [
+            "Sim, uma.",
+            0.2
+        ],
+        [
+            "Sim, duas.",
+            0.4
+        ],
+        [
+            "Sim, tr\u00eas.",
+            0.6
+        ],
+        [
+            "Sim, quatro ou mais.",
+            1
+        ]
+    ],
+    "Na sua resid\u00eancia tem geladeira?": [
+        [
+            "N\u00e3o.",
+            0.0
+        ],
+        [
+            "Sim, uma.",
+            0.2
+        ],
+        [
+            "Sim, duas.",
+            0.4
+        ],
+        [
+            "Sim, tr\u00eas.",
+            0.6
+        ],
+        [
+            "Sim, quatro ou mais.",
+            1
+        ]
+    ],
+    "Na sua resid\u00eancia tem freezer (independente ou segunda porta da geladeira)?": [
+        [
+            "N\u00e3o.",
+            0.0
+        ],
+        [
+            "Sim, um.",
+            0.2
+        ],
+        [
+            "Sim, dois.",
+            0.4
+        ],
+        [
+            "Sim, tr\u00eas.",
+            0.6
+        ],
+        [
+            "Sim, quatro ou mais.",
+            1
+        ]
+    ],
+    "Na sua resid\u00eancia tem m\u00e1quina de lavar roupa? (o tanquinho N\u00c3O deve ser considerado)": [
+        [
+            "N\u00e3o.",
+            0.0
+        ],
+        [
+            "Sim, uma.",
+            0.2
+        ],
+        [
+            "Sim, duas.",
+            0.4
+        ],
+        [
+            "Sim, tr\u00eas.",
+            0.6
+        ],
+        [
+            "Sim, quatro ou mais.",
+            1
+        ]
+    ],
+    "Na sua resid\u00eancia tem m\u00e1quina de secar roupa (independente ou em conjunto com a m\u00e1quina de lavar roupa)?": [
+        [
+            "N\u00e3o.",
+            0.0
+        ],
+        [
+            "Sim, uma.",
+            0.2
+        ],
+        [
+            "Sim, duas.",
+            0.4
+        ],
+        [
+            "Sim, tr\u00eas.",
+            0.6
+        ],
+        [
+            "Sim, quatro ou mais.",
+            1
+        ]
+    ],
+    "Na sua resid\u00eancia tem forno micro-ondas?": [
+        [
+            "N\u00e3o.",
+            0.0
+        ],
+        [
+            "Sim, um.",
+            0.2
+        ],
+        [
+            "Sim, dois.",
+            0.4
+        ],
+        [
+            "Sim, tr\u00eas.",
+            0.6
+        ],
+        [
+            "Sim, quatro ou mais.",
+            1
+        ]
+    ],
+    "Na sua resid\u00eancia tem m\u00e1quina de lavar lou\u00e7a?": [
+        [
+            "N\u00e3o.",
+            0.0
+        ],
+        [
+            "Sim, uma.",
+            0.2
+        ],
+        [
+            "Sim, duas.",
+            0.4
+        ],
+        [
+            "Sim, tr\u00eas.",
+            0.6
+        ],
+        [
+            "Sim, quatro ou mais.",
+            1
+        ]
+    ],
+    "Na sua resid\u00eancia tem aspirador de p\u00f3?": [
+        [
+            "N\u00e3o.",
+            0.0
+        ],
+        [
+            "Sim.",
+            1
+        ]
+    ],
+    "Na sua resid\u00eancia tem televis\u00e3o em cores?": [
+        [
+            "N\u00e3o.",
+            0.0
+        ],
+        [
+            "Sim, uma.",
+            0.2
+        ],
+        [
+            "Sim, duas.",
+            0.4
+        ],
+        [
+            "Sim, tr\u00eas.",
+            0.6
+        ],
+        [
+            "Sim, quatro ou mais.",
+            1
+        ]
+    ],
+    "Na sua resid\u00eancia tem aparelho de DVD?": [
+        [
+            "N\u00e3o.",
+            0.0
+        ],
+        [
+            "Sim.",
+            1
+        ]
+    ],
+    "Na sua resid\u00eancia tem TV por assinatura?": [
+        [
+            "N\u00e3o.",
+            0.0
+        ],
+        [
+            "Sim.",
+            1
+        ]
+    ],
+    "Na sua resid\u00eancia tem telefone celular?": [
+        [
+            "N\u00e3o.",
+            0.0
+        ],
+        [
+            "Sim, um.",
+            0.2
+        ],
+        [
+            "Sim, dois.",
+            0.4
+        ],
+        [
+            "Sim, tr\u00eas.",
+            0.6
+        ],
+        [
+            "Sim, quatro ou mais.",
+            1
+        ]
+    ],
+    "Na sua resid\u00eancia tem telefone fixo?": [
+        [
+            "N\u00e3o.",
+            0.0
+        ],
+        [
+            "Sim.",
+            1
+        ]
+    ],
+    "Na sua resid\u00eancia tem computador?": [
+        [
+            "N\u00e3o.",
+            0.0
+        ],
+        [
+            "Sim, um.",
+            0.2
+        ],
+        [
+            "Sim, dois.",
+            0.4
+        ],
+        [
+            "Sim, tr\u00eas.",
+            0.6
+        ],
+        [
+            "Sim, quatro ou mais.",
+            1
+        ]
+    ],
+    "Na sua resid\u00eancia tem acesso \u00e0 Internet? ": [
+        [
+            "N\u00e3o.",
+            0
+        ],
+        [
+            "Sim.",
+            1
+        ]
+    ]
+}
